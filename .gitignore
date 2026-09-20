@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.zip
+flood-llama-merged/
+flood-llama-adapter/checkpoint-*/
+*.png
